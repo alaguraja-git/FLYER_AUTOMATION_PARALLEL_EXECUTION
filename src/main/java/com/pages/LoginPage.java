@@ -11,7 +11,7 @@ public class LoginPage {
 	private By emailid = By.id("email");
 	private By password = By.id("password");
 	private By loginButton = By.id("login_button");
-	private By forgotPwdLink = By.linkText("Forgot Password?");
+	private By forgotPwdLink = By.linkText("Forgot Password?11");
 
 	// 2. Constructor of the page class
 
